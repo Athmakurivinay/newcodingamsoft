@@ -1,0 +1,2 @@
+# newcodingamsoft
+new repo
